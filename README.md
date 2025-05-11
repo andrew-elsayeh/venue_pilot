@@ -2,14 +2,14 @@
 
 ## Project info
 
-Follow these steps:
+Follow these steps to test the project locally:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone 
+git clone https://github.com/andrew-elsayeh/venue_pilot_pym.git
 
 # Step 2: Navigate to the project directory.
-cd venue-pilot
+cd venue_pilot_pym
 
 # Step 3: Install the necessary dependencies.
 npm i
