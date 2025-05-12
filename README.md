@@ -3,7 +3,7 @@
 ![Project Header](docs/github_header.jpeg)
 
 ## Project info
-AI Hack 2025 is a hackathon organized by Google Developers Group (GDG) in collaboration in Milan Italy. VenuePilot is an agentic AI venue booking concierge. The project won second place in the hackathon.
+AI Hack 2025 is a hackathon organized by Google Developers Group (GDG) in Milan Italy. VenuePilot is an agentic AI venue booking concierge. The project won second place in the hackathon.
 
 Follow these steps to test the project locally:
 
